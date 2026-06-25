@@ -1,0 +1,6 @@
+Nombre: Jhoel 
+Apellido: Taramuel
+Edad: 19
+Semestre: Cuarto
+C.I: 1005216427
+Carrera: Software
